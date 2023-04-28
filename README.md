@@ -1,1 +1,2 @@
 # J-DUINO
+J-DUINO está enfocado en el desarrollo y la robótica educativa boliviana, con la finalidad de acercar a estudiantes, docentes y aficionados de todas las edades al mundo de la programación, la electrónica y la robótica, brindando una plataforma accesible y sencilla de utilizar para aprender y crear proyectos innovadores.
