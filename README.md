@@ -13,6 +13,7 @@ J-DUINO está enfocado en el desarrollo y la robótica educativa boliviana, con 
 ## Instalacion de programas necesarios
 
 para poder utilizar placa necesitaremos dos programas
+
 1.- IDE ARDUINO.- J-DUINO es compatible con el IDE de ARDUINO podemos descarcarlo desde la pagina oficial www.arduino.cc/en/software
 
 2.- DRIVER CH340.- necesitamos instalar este driver para que nuestro equipo reconozca J-DUINO
