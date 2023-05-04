@@ -13,12 +13,25 @@ J-DUINO está enfocado en el desarrollo y la robótica educativa boliviana, con 
 ## Instalacion de programas necesarios
 
 para poder utilizar placa necesitaremos dos programas
-
 1.- IDE ARDUINO.- J-DUINO es compatible con el IDE de ARDUINO podemos descarcarlo desde la pagina oficial www.arduino.cc/en/software
 
 2.- DRIVER CH340.- necesitamos instalar este driver para que nuestro equipo reconozca J-DUINO
 - [driver ch340](https://drive.google.com/file/d/1gnB9u9HnidOV9jQOEt0AguAOyATrRrF1/view?usp=share_link)
 
+## APP J-DUINO
+La Aplicacion J-DUINO esta enfocada para poder utilizar nuestra placa mediante bluetooth y contiene caracteristicas como:
+
+-Control leds placa
+
+-control RC robot movil
+
+-piano APP
+
+-control por voz para domotica
+
+![App Screenshot](https://res.cloudinary.com/sjknjfbjfbudnfnf/image/upload/v1683169452/J-DUINO/tai1e8m6wp6vv8avstcb.png)
+
+- [descarga J-DUINO.apk AQUI](https://drive.google.com/file/d/1GwDd3KhHm7dGoht2JRZUDFQHc4joKId_/view?usp=share_link)
 ## LIBRERIAS
 
 - [LiquidCrystal_I2C](https://drive.google.com/file/d/107kQu9ztJIhmQtwnVz5wNbch_vRfvjgj/view?usp=sharing)
